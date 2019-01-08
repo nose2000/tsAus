@@ -1,0 +1,26 @@
+{
+  "name": "admisionA6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/animations": "^7.1.3",
+    "@angular/cdk": "^7.1.1",
+    "@angular/material": "^7.1.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "hammerjs": "^2.0.8",
+    "mongoose": "^5.4.2",
+    "mongoose-middleware": "^1.0.0",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "description": ""
+}
